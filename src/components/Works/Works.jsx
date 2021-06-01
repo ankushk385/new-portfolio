@@ -1,10 +1,10 @@
 import React from 'react'
-
+import './Works.scss'
 const Works = () => {
     return (
-        <div>
-            works
-        </div>
+       <div className="works" id="works">
+
+       </div>
     )
 }
 

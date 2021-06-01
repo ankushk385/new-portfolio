@@ -1,10 +1,10 @@
 import React from 'react'
-
+import './Testimonial.scss'
 const Testimonial = () => {
     return (
-        <div>
-            test
-        </div>
+       <div className="testimonial" id="testimonial">
+           
+       </div>
     )
 }
 
